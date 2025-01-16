@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
   },
   menuContainer: {
-    paddingHorizontal: 10,  // Adjust padding for space around the hamburger
+    paddingHorizontal: 0,  // Adjust padding for space around the hamburger
   },
   logoContainer: {
     flex: 1,  // Takes up the remaining space
